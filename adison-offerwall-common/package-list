@@ -1,0 +1,107 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:co.adison.offerwall.common.di.data////PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di.data/index.html
+$dokka.location:co.adison.offerwall.common.di.data/Identifier///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di.data/-identifier/index.html
+$dokka.location:co.adison.offerwall.common.di.data/Identifier/Identifier/#kotlin.reflect.KClass[*]#kotlin.String/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di.data/-identifier/-identifier.html
+$dokka.location:co.adison.offerwall.common.di.data/Identifier/instanceClass/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di.data/-identifier/instance-class.html
+$dokka.location:co.adison.offerwall.common.di.data/Identifier/named/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di.data/-identifier/named.html
+$dokka.location:co.adison.offerwall.common.di////PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/index.html
+$dokka.location:co.adison.offerwall.common.di//androidContext/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/android-context.html
+$dokka.location:co.adison.offerwall.common.di//factoryOf/#kotlin.Function0[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/factory-of.html
+$dokka.location:co.adison.offerwall.common.di//get/#kotlin.String/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/get.html
+$dokka.location:co.adison.offerwall.common.di//inject/#kotlin.String/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/inject.html
+$dokka.location:co.adison.offerwall.common.di//module/#kotlin.Function1[co.adison.offerwall.common.di.Module,kotlin.Unit]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/module.html
+$dokka.location:co.adison.offerwall.common.di//startServiceLocator/#kotlin.Function1[co.adison.offerwall.common.di.ServiceLocatorContext,kotlin.Unit]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/start-service-locator.html
+$dokka.location:co.adison.offerwall.common.di/Module///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-module/index.html
+$dokka.location:co.adison.offerwall.common.di/Module/Module/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-module/-module.html
+$dokka.location:co.adison.offerwall.common.di/Module/factory/#kotlin.String#kotlin.Function0[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-module/factory.html
+$dokka.location:co.adison.offerwall.common.di/Module/plus/#co.adison.offerwall.common.di.Module/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-module/plus.html
+$dokka.location:co.adison.offerwall.common.di/Module/single/#kotlin.String#kotlin.Function0[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-module/single.html
+$dokka.location:co.adison.offerwall.common.di/Module/updateDefinitions/#co.adison.offerwall.common.di.data.Identifier#kotlin.Lazy[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-module/update-definitions.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocator///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator/index.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocator/ServiceLocator/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator/-service-locator.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocator/clear/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator/clear.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocator/get/#kotlin.String/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator/get.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocator/inject/#kotlin.String/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator/inject.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocator/registerModules/#kotlin.collections.List[co.adison.offerwall.common.di.Module]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator/register-modules.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocator/resolveDependency/#co.adison.offerwall.common.di.data.Identifier/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator/resolve-dependency.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocatorContext///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator-context/index.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocatorContext/applicationContext/#android.content.Context/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator-context/application-context.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocatorContext/clear/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator-context/clear.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocatorContext/getServiceLocator/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator-context/get-service-locator.html
+$dokka.location:co.adison.offerwall.common.di/ServiceLocatorContext/modules/#kotlin.collections.List[co.adison.offerwall.common.di.Module]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.di/-service-locator-context/modules.html
+$dokka.location:co.adison.offerwall.common.ext////PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/index.html
+$dokka.location:co.adison.offerwall.common.ext//applyMarkdown/kotlin.String#kotlin.Int#kotlin.Function1[kotlin.String,kotlin.Unit]?/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/apply-markdown.html
+$dokka.location:co.adison.offerwall.common.ext//assetsFileToString/android.content.Context#kotlin.String/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/assets-file-to-string.html
+$dokka.location:co.adison.offerwall.common.ext//commaSeparated/kotlin.Int#java.text.DecimalFormat/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/comma-separated.html
+$dokka.location:co.adison.offerwall.common.ext//dpToPx/android.content.Context#kotlin.Float/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/dp-to-px.html
+$dokka.location:co.adison.offerwall.common.ext//dpToPx/android.content.Context#kotlin.Int/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/dp-to-px.html
+$dokka.location:co.adison.offerwall.common.ext//fromHtml/kotlin.String#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/from-html.html
+$dokka.location:co.adison.offerwall.common.ext//getParcelableAsClass/android.os.Bundle#kotlin.String#java.lang.Class[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/get-parcelable-as-class.html
+$dokka.location:co.adison.offerwall.common.ext//getParcelableExtraAsClass/android.content.Intent#kotlin.String#java.lang.Class[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/get-parcelable-extra-as-class.html
+$dokka.location:co.adison.offerwall.common.ext//getScreenWidthDp/android.content.Context#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/get-screen-width-dp.html
+$dokka.location:co.adison.offerwall.common.ext//getScreenWidthPx/android.content.Context#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/get-screen-width-px.html
+$dokka.location:co.adison.offerwall.common.ext//insertParagraphSpacing/kotlin.CharSequence#kotlin.Int#kotlin.Int/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/insert-paragraph-spacing.html
+$dokka.location:co.adison.offerwall.common.ext//pxToDp/android.content.Context#kotlin.Float/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/px-to-dp.html
+$dokka.location:co.adison.offerwall.common.ext//pxToDp/android.content.Context#kotlin.Int/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/px-to-dp.html
+$dokka.location:co.adison.offerwall.common.ext//toColorHex/kotlin.Int#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/to-color-hex.html
+$dokka.location:co.adison.offerwall.common.ext//toColorHexWithAlpha/kotlin.Int#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/to-color-hex-with-alpha.html
+$dokka.location:co.adison.offerwall.common.ext//toJSONObject/kotlin.String#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/to-j-s-o-n-object.html
+$dokka.location:co.adison.offerwall.common.ext//toMap/org.json.JSONObject#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/to-map.html
+$dokka.location:co.adison.offerwall.common.ext//versionToInt/kotlin.String#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.ext/version-to-int.html
+$dokka.location:co.adison.offerwall.common.log////PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/index.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/index.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/FUNCTION_CALL/#kotlin.Array[kotlin.Any]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/-f-u-n-c-t-i-o-n_-c-a-l-l.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/FUNCTION_RETURN/#kotlin.Array[kotlin.Any]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/-f-u-n-c-t-i-o-n_-r-e-t-u-r-n.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/FUNCTION_RETURN_NEXT/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/-f-u-n-c-t-i-o-n_-r-e-t-u-r-n_-n-e-x-t.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/FUNCTION_START/#kotlin.Array[kotlin.Any]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/-f-u-n-c-t-i-o-n_-s-t-a-r-t.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/e/#kotlin.String#kotlin.Array[kotlin.Any?]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/e.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/getHashStr/#kotlin.Any?/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/get-hash-str.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/i/#kotlin.String#kotlin.Array[kotlin.Any?]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/i.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/makeLogTag/#java.lang.Class[*]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/make-log-tag.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/makeLogTag/#kotlin.String/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/make-log-tag.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/useErrorLog/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/use-error-log.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/useInfoLog/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/use-info-log.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/useTraceLog/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/use-trace-log.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/useWarnLog/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/use-warn-log.html
+$dokka.location:co.adison.offerwall.common.log/AdisonLogger/w/#kotlin.String#kotlin.Array[kotlin.Any?]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.log/-adison-logger/w.html
+$dokka.location:co.adison.offerwall.common.utils////PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/index.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils.Companion///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/-companion/index.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils.Companion/daysLeft/#java.util.Date/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/-companion/days-left.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils.yyyy_MM_ddHHmmss///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/yyyy_-m-m_dd-h-hmmss/index.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils.yyyy_MM_dd_T_HH_mm_ssZ///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/yyyy_-m-m_dd_-t_-h-h_mm_ss-z/index.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils.yyyymmdd///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/yyyymmdd/index.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils.yyyymmdd_///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/yyyymmdd_/index.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils.yyyymmdd_1///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/yyyymmdd_1/index.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils.yyyymmdd_2///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/yyyymmdd_2/index.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils.yyyymmdd__///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/yyyymmdd__/index.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/index.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils/format/#java.util.Date?/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/format.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils/format/#kotlin.Long/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/format.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils/now/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/now.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils/optParse/#kotlin.String#kotlin.Long/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/opt-parse.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils/optParseDate/#kotlin.String#java.util.Date/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/opt-parse-date.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils/parse/#kotlin.String/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/parse.html
+$dokka.location:co.adison.offerwall.common.utils/DateUtils/parseDate/#kotlin.String/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-date-utils/parse-date.html
+$dokka.location:co.adison.offerwall.common.utils/ImageUtils///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-image-utils/index.html
+$dokka.location:co.adison.offerwall.common.utils/ImageUtils/setBlurImage/#android.graphics.Bitmap#kotlin.Int#android.widget.ImageView/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-image-utils/set-blur-image.html
+$dokka.location:co.adison.offerwall.common.utils/Version///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-version/index.html
+$dokka.location:co.adison.offerwall.common.utils/Version/Version/#kotlin.String/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-version/-version.html
+$dokka.location:co.adison.offerwall.common.utils/Version/compareTo/#co.adison.offerwall.common.utils.Version/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-version/compare-to.html
+$dokka.location:co.adison.offerwall.common.utils/Version/equals/#kotlin.Any?/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-version/equals.html
+$dokka.location:co.adison.offerwall.common.utils/Version/hashCode/#/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.utils/-version/hash-code.html
+$dokka.location:co.adison.offerwall.common.view////PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.view/index.html
+$dokka.location:co.adison.offerwall.common.view//setOnDebounceClickListener/android.view.View#kotlin.Long#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.view/set-on-debounce-click-listener.html
+$dokka.location:co.adison.offerwall.common.view/CornerOutlineProvider///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.view/-corner-outline-provider/index.html
+$dokka.location:co.adison.offerwall.common.view/CornerOutlineProvider/CornerOutlineProvider/#kotlin.Float/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.view/-corner-outline-provider/-corner-outline-provider.html
+$dokka.location:co.adison.offerwall.common.view/CornerOutlineProvider/getOutline/#android.view.View#android.graphics.Outline/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.view/-corner-outline-provider/get-outline.html
+$dokka.location:co.adison.offerwall.common.view/DebounceOnClickListener///PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.view/-debounce-on-click-listener/index.html
+$dokka.location:co.adison.offerwall.common.view/DebounceOnClickListener/DebounceOnClickListener/#kotlin.Long#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.view/-debounce-on-click-listener/-debounce-on-click-listener.html
+$dokka.location:co.adison.offerwall.common.view/DebounceOnClickListener/onClick/#android.view.View/PointingToDeclaration/adison-offerwall-common/co.adison.offerwall.common.view/-debounce-on-click-listener/on-click.html
+co.adison.offerwall.common.di
+co.adison.offerwall.common.di.data
+co.adison.offerwall.common.ext
+co.adison.offerwall.common.log
+co.adison.offerwall.common.utils
+co.adison.offerwall.common.view
+
